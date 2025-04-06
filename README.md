@@ -28,7 +28,7 @@
           <img src="images/project-thumbs/churn.png" alt="Credit Card Churn" />
           <h3>Credit Card Churn Prediction</h3>
           <p>ML model using logistic regression, KNN, and Random Forest to predict customer churn.</p>
-          <a href="projects/credit-churn/README.md" class="btn">View Project</a>
+          <a href="projects/credit-churn/CustomerChurn.ipynb" class="btn">View Project</a>
         </div>
         <div class="project-card">
           <img src="images/project-thumbs/housing.png" alt="Real Estate Analysis" />
