@@ -10,12 +10,12 @@
 <body>
   <header class="hero">
     <div class="container">
-      <img src="images/profile.jpg" alt="Cheryl Tafolla" class="profile-pic" />
+      <img src="images/profile.jpg" alt="Cheryl Machingura" class="profile-pic" />
       <h1>Cheryl Machingura</h1>
       <p>Empowering insights through data science and storytelling.</p>
       <div class="social-links">
         <a href="https://github.com/cheryltaf85">GitHub</a> |
-        <a href="https://linkedin.com/in/YOUR-LINK">LinkedIn</a>
+        <a href="https://linkedin.com/in/cherylmachingura/">LinkedIn</a>
       </div>
     </div>
   </header>
