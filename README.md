@@ -7,8 +7,8 @@
 🌱 &nbsp;I am passionate about **machine learning**, **predictive analytics**, and solving **real-world business problems** such as **customer churn**, **fraud detection**, and **credit risk modeling**.  
 ✍️ &nbsp;In my free time, I enjoy creating impactful **data visualizations**, contributing to **data science communities**, and working on **side projects**.  
 💬 &nbsp;Feel free to reach out to me for **collaborations**, **job opportunities**, or just for an engaging **data science discussion**.  
-✉️ &nbsp;You can shoot me an email at **cheryl.machingura@discover.com**. I’ll get back to you as soon as possible.  
-📄 &nbsp;Please check out my **[Résumé](https://your-resume-link)** for more details about me.
+✉️ &nbsp;You can shoot me an email at **cherylmachingura.pm@gmail.com**. I’ll get back to you as soon as possible.  
+📄 &nbsp;Please check out my **[Résumé](https://drive.google.com/file/d/1CgTBBelcsjjc-4VOdApL9c76vvTL49Fe/view?usp=sharing)** for more details about me.
 
 ---
 
@@ -98,8 +98,9 @@ This analysis aimed to understand the trends in childcare pricing across the U.S
 
 <p align="center">
 <a href="https://www.cheryltaf85.com"><img src="https://img.shields.io/badge/-cheryltaf85.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/cheryltaf85"><img src="https://img.shields.io/badge/-Cheryl%20Machingura-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:cheryl.machingura@discover.com"><img src="https://img.shields.io/badge/-cheryl.machingura@discover.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/cherylmachingura/"><img src="https://img.shields.io/badge/-Cheryl%20Machingura-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:cherylmachingura.pm@gmail.com"><img src="https://img.shields.io/badge/-cherylmachingura.pm@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://twitter.com/cheryl_taf"><img src="https://img.shields.io/badge/-@cheryl_taf-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
 <a href="https://github.com/cheryltaf85"><img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=GitHub&logoColor=white"/></a>
 </p>
 
