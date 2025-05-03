@@ -90,21 +90,56 @@
 
   <section class="about-section">
     <div class="container">
-      <h2>About Me</h2>
-      <p>
-        I'm a data science graduate and Principal Agile Project Manager with a passion for translating data into actionable insights.
-        From predictive modeling and data storytelling to developing dashboards for decision-makers, I bring an analytical
-        mindset and collaborative spirit to every project. I'm also the founder of "Women Leading in Data" (WiLD), an
-        initiative to amplify diverse voices in the field.
-      </p>
-    </div>
-  </section>
+    ![Cheryl Machingura Banner](https://your-image-link.jpg)
 
-  <footer class="footer">
-    <div class="container">
-      <p>&copy; 2025 Cheryl Machingura. All rights reserved.</p>
-    </div>
-  </footer>
-</body>
-</html>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Cheryl</h2>
 
+### 👨🏻‍💻 &nbsp;About Me
+
+💡 &nbsp;I am a Principal Program Manager at Discover Financial Services, currently transitioning into data science and data modeling roles.\
+🎓 &nbsp;I hold an MBA in Business Analytics from Texas Woman’s University and am in my final semester of completing a Master’s in Data Science at Bellevue University.\
+🌱 &nbsp;I am passionate about machine learning, predictive analytics, and using data to solve complex business problems such as customer churn, fraud detection, and credit risk modeling.\
+📊 &nbsp;Currently, I am working on a project focused on **Credit Risk Modeling for Loan Approvals**, where I am creating a predictive model to assess loan default risk and recommend credit approval decisions. This project uses datasets such as the Lending Club Loan Data and Home Credit Default Risk Dataset, and explores how machine learning models can enhance loan approval accuracy and contribute to more responsible lending decisions.\
+✍️ &nbsp;In my free time, I enjoy creating impactful data visualizations, contributing to data science communities, and working on side projects.\
+💬 &nbsp;Feel free to reach out to me for project collaborations, job opportunities, or just for an engaging data science discussion.\
+✉️ &nbsp;You can shoot me an email at cheryl.machingura@discover.com! I’ll get back to you as soon as possible.\
+📄 &nbsp;Please check out my [Résumé](https://your-resume-link) for more details about me. I’m open to feedback and suggestions!
+
+<img alt="Night Coding" src="https://your-image-link.jpg" align="right"/>
+
+### 🛠 &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp;
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
+![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras&logoColor=D00000)&nbsp;
+![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat&logo=scikit-learn)&nbsp;
+![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau&logoColor=006F8E)&nbsp;
+![PowerBI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi)&nbsp;
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-05122A?style=flat&logo=sqlalchemy)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/cheryltaf85">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cheryltaf85&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cheryltaf85&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.cheryltaf85.com"><img src="https://img.shields.io/badge/-cheryltaf85.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/cheryltaf85"><img src="https://img.shields.io/badge/-Cheryl%20Machingura-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:cheryl.machingura@discover.com"><img src="https://img.shields.io/badge/-cheryl.machingura@discover.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://github.com/cheryltaf85"><img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=GitHub&logoColor=white"/></a>
+<a href="https://www.twitter.com/cheryltaf85"><img src="https://img.shields.io/badge/-@cheryltaf85-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://www.pinterest.com/cheryltaf85"><img src="https://img.shields.io/badge/-@cheryltaf85-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
+</p>
+
+-----
+Credits: [Cheryl Machingura](https://github.com/cheryltaf85)
