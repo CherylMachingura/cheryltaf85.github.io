@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cheryl Machingura - Data Scientist Portfolio</title>
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+
+  <!-- Custom CSS -->
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Roboto', sans-serif;
+    }
+
+    /* Hero Section */
+    header {
+      height: 100vh;
+      background-image: url('https://www.w3schools.com/w3images/forest.jpg'); /* Background image */
+      background-size: cover;
+      background-position: center;
+      color: white;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      flex-direction: column;
+    }
+
+    header h1 {
+      font-family: 'Poppins', sans-serif;
+      font-size: 3em;
+      font-weight: 600;
+    }
+
+    header p {
+      font-size: 1.5em;
+      margin-top: 10px;
+      font-weight: 400;
+    }
+
+    /* Navigation Bar */
+    nav {
+      position: absolute;
+      top: 20px;
+      left: 50%;
+      transform: translateX(-50%);
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+    }
+
+    nav a {
+      color: white;
+      text-decoration: none;
+      font-size: 1.1em;
+      padding: 10px 20px;
+      background-color: rgba(0, 0, 0, 0.5);
+      border-radius: 5px;
+    }
+
+    nav a:hover {
+      background-color: rgba(0, 0, 0, 0.7);
+    }
+
+    /* Section Styling */
+    section {
+      margin: 40px 20px;
+    }
+
+    h2 {
+      font-family: 'Poppins', sans-serif;
+      color: #3498db;
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    /* Project Cards */
+    .project-card {
+      background-color: white;
+      padding: 20px;
+      text-align: center;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      margin: 10px;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+      cursor: pointer;
+      width: 200px;
+      margin: auto;
+    }
+
+    .project-card:hover {
+      transform: scale(1.05);
+      box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+    }
+
+    .project-card img {
+      width: 100%;
+      height: auto;
+      border-radius: 10px;
+    }
+
+    .project-card a {
+      text-decoration: none;
+      color: #3498db;
+      font-weight: bold;
+    }
+
+    /* Footer */
+    footer {
+      background-color: #3498db;
+      color: white;
+      text-align: center;
+      padding: 20px;
+    }
+
+    footer a {
+      color: white;
+      text-decoration: none;
+    }
+  </style>
+</head>
+
+<body>
+  <!-- Hero Section -->
+  <header>
+    <h1>Cheryl Machingura</h1>
+    <p>Data Scientist | Machine Learning Enthusiast | Visualization Specialist</p>
+
+    <!-- Navigation Bar -->
+    <nav>
+      <a href="#about">About</a>
+      <a href="#projects">Portfolio</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <!-- About Section -->
+  <section id="about">
+    <h2><i class="fas fa-user-circle"></i> About Me</h2>
+    <p>💡 &nbsp;I am a **Principal Program Manager** at **Discover Financial Services**, currently transitioning into **data science** and **data modeling** roles.</p>
+    <p>🎓 &nbsp;I hold an **MBA in Business Analytics** from **Texas Woman's University** and am completing my **Master's in Data Science** from **Bellevue University**.</p>
+    <p>🌱 &nbsp;I am passionate about **machine learning**, **predictive analytics**, and solving **real-world business problems** such as **customer churn**, **fraud detection**, and **credit risk modeling**.</p>
+  </section>
+
+  <!-- Projects Section -->
+  <section id="projects">
+    <h2><i class="fas fa-project-diagram"></i> Portfolio</h2>
+    <div class="project-card">
+      <img src="https://via.placeholder.com/150" alt="Customer Churn">
+      <h3>Customer Churn Prediction</h3>
+      <p>Predict customer churn in the financial industry using machine learning.</p>
+      <a href="https://github.com/cheryltaf85/Customer-Churn-Prediction">View Project</a>
+    </div>
+    <!-- Add more project cards here -->
+  </section>
+
+  <!-- Contact Section -->
+  <section id="contact">
+    <h2><i class="fas fa-phone"></i> Contact Me</h2>
+    <p>If you're interested in working together or have any questions, feel free to reach out!</p>
+    <p>📧 &nbsp;Email: [cherylmachingura.pm@gmail.com](mailto:cherylmachingura.pm@gmail.com)</p>
+  </section>
+
+  <!-- Footer Section -->
+  <footer>
+    <p>Connect with me on <a href="https://www.linkedin.com/in/cherylmachingura/">LinkedIn</a> or <a href="https://twitter.com/cheryl_taf">Twitter</a></p>
+  </footer>
+</body>
+</html>
