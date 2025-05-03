@@ -1,13 +1,16 @@
 # 👋 &nbsp;Welcome to My Portfolio!
 
+![Cheryl's Professional Photo](https://github.com/CherylMachingura/cheryltaf85.github.io/blob/main/Cheryl%20professional%20picture.jpeg?raw=true)  
+*Hi there, I'm Cheryl! Welcome to my portfolio.*
+
 ## 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I am a **Principal Program Manager** at **Discover Financial Services**, currently transitioning into data science and data modeling roles.  
+💡 &nbsp;I am a **Principal Program Manager** at **Discover Financial Services**, currently transitioning into **data science** and **data modeling** roles.  
 🎓 &nbsp;I hold an **MBA in Business Analytics** from **Texas Woman's University** and am completing my **Master's in Data Science** from **Bellevue University**.  
 🌱 &nbsp;I am passionate about **machine learning**, **predictive analytics**, and solving **real-world business problems** such as **customer churn**, **fraud detection**, and **credit risk modeling**.  
 ✍️ &nbsp;In my free time, I enjoy creating impactful **data visualizations**, contributing to **data science communities**, and working on **side projects**.  
 💬 &nbsp;Feel free to reach out to me for **collaborations**, **job opportunities**, or just for an engaging **data science discussion**.  
-✉️ &nbsp;You can shoot me an email at **cherylmachingura.pm@gmail.com**. I’ll get back to you as soon as possible.  
+✉️ &nbsp;You can shoot me an email at **[cherylmachingura.pm@gmail.com](mailto:cherylmachingura.pm@gmail.com)**. I’ll get back to you as soon as possible.  
 📄 &nbsp;Please check out my **[Résumé](https://drive.google.com/file/d/1CgTBBelcsjjc-4VOdApL9c76vvTL49Fe/view?usp=sharing)** for more details about me.
 
 ---
@@ -106,3 +109,4 @@ This analysis aimed to understand the trends in childcare pricing across the U.S
 
 -----
 Credits: [Cheryl Machingura](https://github.com/cheryltaf85)
+
