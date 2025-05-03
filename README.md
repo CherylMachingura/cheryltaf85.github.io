@@ -1,217 +1,118 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Cheryl Machingura - Data Scientist Portfolio</title>
+# 👋 &nbsp;Welcome to My Portfolio!
 
-  <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
-  
-  <!-- Font Awesome -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+![Cheryl's Professional Photo](https://github.com/CherylMachingura/cheryltaf85.github.io/blob/main/Cheryl%20professional%20picture.jpeg?raw=true)  
+*Hi there, I'm Cheryl! Welcome to my portfolio.*
 
-  <!-- Custom CSS -->
-  <style>
-    body {
-      font-family: 'Roboto', sans-serif;
-      margin: 0;
-      padding: 0;
-      background-color: #f4f6f8;
-    }
+## 👨🏻‍💻 &nbsp;About Me
 
-    header {
-      text-align: center;
-      padding: 20px;
-      background-color: #3498db;
-      color: white;
-    }
+💡 &nbsp;I am a **Principal Program Manager** at **Discover Financial Services**, currently transitioning into **data science** and **data modeling** roles.  
+🎓 &nbsp;I hold an **MBA in Business Analytics** from **Texas Woman's University** and am completing my **Master's in Data Science** from **Bellevue University**.  
+🌱 &nbsp;I am passionate about **machine learning**, **predictive analytics**, and solving **real-world business problems** such as **customer churn**, **fraud detection**, and **credit risk modeling**.  
+✍️ &nbsp;In my free time, I enjoy creating impactful **data visualizations**, contributing to **data science communities**, and working on **side projects**.  
+💬 &nbsp;Feel free to reach out to me for **collaborations**, **job opportunities**, or just for an engaging **data science discussion**.  
+✉️ &nbsp;You can shoot me an email at **[cherylmachingura.pm@gmail.com](mailto:cherylmachingura.pm@gmail.com)**. I’ll get back to you as soon as possible.  
+📄 &nbsp;Please check out my **[Résumé](https://drive.google.com/file/d/1CgTBBelcsjjc-4VOdApL9c76vvTL49Fe/view?usp=sharing)** for more details about me.
 
-    header img {
-      border-radius: 50%;
-      width: 150px;
-      height: 150px;
-      object-fit: cover;
-    }
+---
 
-    h1 {
-      margin-top: 10px;
-      font-family: 'Poppins', sans-serif;
-      font-size: 2.5em;
-    }
+## 💼 &nbsp;Projects
 
-    h2 {
-      font-family: 'Poppins', sans-serif;
-      color: #3498db;
-      margin-top: 40px;
-    }
+### **1. Customer Churn Prediction**  
+![Customer Churn](https://via.placeholder.com/150)  
+*Business Problem:*  
+Predicting customer churn helps financial institutions reduce customer attrition and improve retention strategies.
 
-    section {
-      margin: 20px;
-    }
+*Approach/Methodology:*  
+- **Dataset:** BankChurners.csv  
+- **Techniques:** Logistic regression, decision trees, and random forests.  
+- **Result:** Achieved 85% accuracy with the Random Forest model. Key predictors included credit utilization and transaction frequency.
 
-    .project-card {
-      background-color: white;
-      padding: 20px;
-      text-align: center;
-      border-radius: 10px;
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-      margin: 10px;
-      transition: transform 0.3s ease, box-shadow 0.3s ease;
-      cursor: pointer;
-    }
+[**GitHub Repository**](https://github.com/cheryltaf85/Customer-Churn-Prediction)
 
-    .project-card:hover {
-      transform: scale(1.05);
-      box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
-    }
+---
 
-    .project-card img {
-      width: 100%;
-      height: auto;
-      border-radius: 10px;
-    }
+### **2. Credit Risk Modeling for Loan Approvals**  
+![Credit Risk](https://via.placeholder.com/150)  
+*Business Problem:*  
+This project aimed to predict the risk of loan defaults, helping lenders to assess potential risks before approving loans.
 
-    .project-card a {
-      text-decoration: none;
-      color: #3498db;
-      font-weight: bold;
-    }
+*Approach/Methodology:*  
+- **Dataset:** Home Credit Default Risk Dataset (Kaggle)  
+- **Techniques:** Logistic regression, KNN, and random forest classifiers.  
+- **Result:** Achieved an F1-score of 0.78, identifying significant predictors such as income, loan amount, and credit history.
 
-    .form-container {
-      max-width: 600px;
-      margin: 0 auto;
-      padding: 20px;
-      background-color: #fff;
-      border-radius: 10px;
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    }
+[**GitHub Repository**](https://github.com/cheryltaf85/Credit-Risk-Modeling)
 
-    .form-container label {
-      font-size: 1.1em;
-      color: #333;
-    }
+---
 
-    .form-container input, .form-container textarea {
-      width: 100%;
-      padding: 10px;
-      margin: 10px 0;
-      border-radius: 5px;
-      border: 1px solid #ccc;
-      font-size: 1em;
-    }
+### **3. Fraud Detection in Credit Card Transactions**  
+![Fraud Detection](https://via.placeholder.com/150)  
+*Business Problem:*  
+Fraud detection is a crucial task for preventing financial losses. This project aimed to identify fraudulent transactions in real-time using machine learning.
 
-    .form-container button {
-      padding: 10px 20px;
-      background-color: #3498db;
-      color: white;
-      border: none;
-      border-radius: 5px;
-      cursor: pointer;
-      font-size: 1.1em;
-    }
+*Approach/Methodology:*  
+- **Dataset:** Credit Card Fraud Detection Dataset (Kaggle)  
+- **Techniques:** Isolation Forest, SVM, and Random Forest.  
+- **Result:** Achieved an F1-score of 0.85, with the model identifying 90% of fraudulent transactions.
 
-    .form-container button:hover {
-      background-color: #2980b9;
-    }
+[**GitHub Repository**](https://github.com/cheryltaf85/Fraud-Detection-Credit-Card)
 
-    footer {
-      text-align: center;
-      margin-top: 40px;
-      background-color: #3498db;
-      color: white;
-      padding: 20px;
-    }
+---
 
-    footer a {
-      color: white;
-      text-decoration: none;
-    }
+### **4. Real Estate Price Prediction**  
+![Real Estate](https://via.placeholder.com/150)  
+*Business Problem:*  
+Predicting real estate prices helps investors, agents, and buyers make informed decisions. This project used machine learning to predict housing prices based on location, size, and other features.
 
-  </style>
-</head>
+*Approach/Methodology:*  
+- **Dataset:** House Prices - Advanced Regression Techniques (Kaggle)  
+- **Techniques:** XGBoost, linear regression, and Lasso regression.  
+- **Result:** The XGBoost model achieved an RMSE of 0.12, providing accurate price predictions.
 
-<body>
-  <!-- Header Section -->
-  <header>
-    <img src="https://github.com/CherylMachingura/cheryltaf85.github.io/blob/main/Cheryl%20professional%20picture.jpeg?raw=true" alt="Cheryl's Professional Photo" />
-    <h1>Welcome to My Portfolio</h1>
-    <p>Hi there, I'm Cheryl! Welcome to my portfolio.</p>
-  </header>
+[**GitHub Repository**](https://github.com/cheryltaf85/Real-Estate-Price-Prediction)
 
-  <!-- About Me Section -->
-  <section>
-    <h2><i class="fas fa-user-circle"></i> About Me</h2>
-    <p>💡 &nbsp;I am a **Principal Program Manager** at **Discover Financial Services**, currently transitioning into **data science** and **data modeling** roles.</p>
-    <p>🎓 &nbsp;I hold an **MBA in Business Analytics** from **Texas Woman's University** and am completing my **Master's in Data Science** from **Bellevue University**.</p>
-    <p>🌱 &nbsp;I am passionate about **machine learning**, **predictive analytics**, and solving **real-world business problems** such as **customer churn**, **fraud detection**, and **credit risk modeling**.</p>
-    <p>✍️ &nbsp;In my free time, I enjoy creating impactful **data visualizations**, contributing to **data science communities**, and working on **side projects**.</p>
-    <p>💬 &nbsp;Feel free to reach out to me for **collaborations**, **job opportunities**, or just for an engaging **data science discussion**.</p>
-    <p>✉️ &nbsp;You can shoot me an email at **[cherylmachingura.pm@gmail.com](mailto:cherylmachingura.pm@gmail.com)**. I’ll get back to you as soon as possible.</p>
-    <p>📄 &nbsp;Please check out my **[Résumé](https://drive.google.com/file/d/1CgTBBelcsjjc-4VOdApL9c76vvTL49Fe/view?usp=sharing)** for more details about me.</p>
-  </section>
+---
 
-  <!-- Projects Section -->
-  <section>
-    <h2><i class="fas fa-project-diagram"></i> Projects</h2>
-    
-    <div class="project-card">
-      <img src="https://via.placeholder.com/150" alt="Customer Churn">
-      <h3>Customer Churn Prediction</h3>
-      <p>Predict customer churn in the financial industry using machine learning.</p>
-      <a href="https://github.com/cheryltaf85/Customer-Churn-Prediction">View Project</a>
-    </div>
+### **5. National Childcare Prices Analysis**  
+![Childcare Prices](https://via.placeholder.com/150)  
+*Business Problem:*  
+This analysis aimed to understand the trends in childcare pricing across the U.S., with a focus on affordability and regional price variations.
 
-    <div class="project-card">
-      <img src="https://via.placeholder.com/150" alt="Credit Risk">
-      <h3>Credit Risk Modeling for Loan Approvals</h3>
-      <p>Predict the risk of loan defaults using machine learning.</p>
-      <a href="https://github.com/cheryltaf85/Credit-Risk-Modeling">View Project</a>
-    </div>
+*Approach/Methodology:*  
+- **Dataset:** National Database of Childcare Prices  
+- **Techniques:** Exploratory data analysis (EDA) and data visualization using Tableau.  
+- **Result:** Revealed significant price differences between urban and rural areas, as well as pricing trends over time.
 
-    <div class="project-card">
-      <img src="https://via.placeholder.com/150" alt="Fraud Detection">
-      <h3>Fraud Detection in Credit Card Transactions</h3>
-      <p>Identify fraudulent transactions in real-time using machine learning.</p>
-      <a href="https://github.com/cheryltaf85/Fraud-Detection-Credit-Card">View Project</a>
-    </div>
+[**GitHub Repository**](https://github.com/cheryltaf85/Childcare-Prices-Analysis)
 
-    <!-- Add more project cards here, following the same structure -->
-  </section>
+---
 
-  <!-- Tech Stack Section -->
-  <section>
-    <h2><i class="fas fa-cogs"></i> Tech Stack</h2>
-    <p>Languages: Python, SQL, R</p>
-    <p>Frameworks: TensorFlow, Scikit-Learn</p>
-    <p>Tools: Tableau, Power BI, GitHub</p>
-  </section>
+## 🛠 &nbsp;Tech Stack
 
-  <!-- Contact Form Section -->
-  <section>
-    <h2><i class="fas fa-phone"></i> Contact Me</h2>
-    <div class="form-container">
-      <form action="https://formspree.io/f/your-form-id" method="POST">
-        <label for="name">Your Name:</label>
-        <input type="text" id="name" name="name" required>
-        
-        <label for="email">Your Email:</label>
-        <input type="email" id="email" name="email" required>
-        
-        <label for="message">Your Message:</label>
-        <textarea id="message" name="message" required></textarea>
-        
-        <button type="submit">Send Message</button>
-      </form>
-    </div>
-  </section>
+- **Languages & Frameworks:**  
+  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp;![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)&nbsp;![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)
 
-  <!-- Footer Section -->
-  <footer>
-    <p>Connect with me on <a href="https://www.linkedin.com/in/cherylmachingura/">LinkedIn</a> or <a href="https://twitter.com/cheryl_taf">Twitter</a></p>
-  </footer>
-</body>
-</html>
+- **Tools & Technologies:**  
+  ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau&logoColor=006F8E)&nbsp;![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi)&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+
+- **Machine Learning & Data Science Libraries:**  
+  ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras&logoColor=D00000)&nbsp;![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat&logo=scikit-learn)
+
+---
+
+## 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.cheryltaf85.com"><img src="https://img.shields.io/badge/-cheryltaf85.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white" /></a>
+<a href="https://linkedin.com/in/cherylmachingura/"><img src="https://img.shields.io/badge/-Cheryl%20Machingura-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:cherylmachingura.pm@gmail.com"><img src="https://img.shields.io/badge/-cherylmachingura.pm@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://twitter.com/cheryl_taf"><img src="https://img.shields.io/badge/-@cheryl_taf-1DA1F2?style=flat&logo=Twitter&logoColor=white" alt="Twitter" /></a>
+<a href="https://github.com/cheryltaf85"><img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=GitHub&logoColor=white" alt="GitHub" /></a>
+</p>
+
+-----
+Credits: [Cheryl Machingura](https://github.com/cheryltaf85)
+
 
 
 
