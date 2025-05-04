@@ -18,7 +18,7 @@
 ## 💼 &nbsp;Projects
 
 ### **1. Customer Churn Prediction**  
-![Customer Churn](https://via.placeholder.com/150)  
+![Customer Churn]((https://github.com/CherylMachingura/cheryltaf85.github.io/tree/main/projects/credit-churn))  
 *Business Problem:*  
 Predicting customer churn helps financial institutions reduce customer attrition and improve retention strategies.
 
