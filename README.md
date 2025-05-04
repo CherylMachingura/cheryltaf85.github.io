@@ -55,7 +55,7 @@
     <li>Result: Achieved an F1-score of 0.85, with the model identifying 90% of fraudulent transactions.</li>
   </ul>
 </p>
-<a href="https://github.com/cheryltaf85/Fraud-Detection-Credit-Card">GitHub Repository</a>
+<a href="https://github.com/CherylMachingura/cheryltaf85.github.io/blob/main/Fraud%20Detection%20in%20Credit%20Card%20Transactions.ipynb">GitHub Repository</a>
 
 <hr>
 
