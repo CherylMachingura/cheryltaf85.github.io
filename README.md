@@ -46,7 +46,7 @@
 <hr>
 
 <h3>3. Fraud Detection in Credit Card Transactions</h3>
-<img src="https://via.placeholder.com/150" alt="Fraud Detection">
+<img src="https://github.com/CherylMachingura/cheryltaf85.github.io/blob/main/Fraud%20Detection%20in%20Credit%20Card%20Transactions.ipynb">
 <p>Business Problem: Fraud detection is a crucial task for preventing financial losses. This project aimed to identify fraudulent transactions in real-time using machine learning.</p>
 <p>Approach/Methodology:  
   <ul>
