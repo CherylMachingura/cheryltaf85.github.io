@@ -6,7 +6,7 @@
   <title>Cheryl Machingura - Data Scientist Portfolio</title>
 
   <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Lora:wght@400;700&display=swap" rel="stylesheet">
   
   <!-- Font Awesome -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
@@ -20,7 +20,9 @@
     }
 
     body {
-      font-family: 'Roboto', sans-serif;
+      font-family: 'Lora', serif;
+      background-color: #f6f8fb;
+      color: #333;
     }
 
     /* Hero Section */
@@ -35,11 +37,12 @@
       align-items: center;
       text-align: center;
       flex-direction: column;
+      box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.3);
     }
 
     header h1 {
       font-family: 'Poppins', sans-serif;
-      font-size: 3em;
+      font-size: 3.5em;
       font-weight: 600;
     }
 
@@ -57,7 +60,7 @@
       transform: translateX(-50%);
       display: flex;
       justify-content: center;
-      gap: 20px;
+      gap: 30px;
     }
 
     nav a {
@@ -66,7 +69,9 @@
       font-size: 1.1em;
       padding: 10px 20px;
       background-color: rgba(0, 0, 0, 0.5);
-      border-radius: 5px;
+      border-radius: 30px;
+      font-weight: 600;
+      transition: background-color 0.3s;
     }
 
     nav a:hover {
@@ -76,44 +81,74 @@
     /* Section Styling */
     section {
       margin: 40px 20px;
+      padding: 40px;
+      background-color: #fff;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+      border-radius: 10px;
     }
 
     h2 {
       font-family: 'Poppins', sans-serif;
       color: #3498db;
       text-align: center;
-      margin-bottom: 20px;
+      margin-bottom: 30px;
+      font-size: 2em;
+      font-weight: 600;
+    }
+
+    p {
+      font-size: 1.1em;
+      line-height: 1.6;
     }
 
     /* Project Cards */
     .project-card {
-      background-color: white;
+      background-color: #ffffff;
       padding: 20px;
       text-align: center;
-      border-radius: 10px;
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-      margin: 10px;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+      margin: 20px;
       transition: transform 0.3s ease, box-shadow 0.3s ease;
       cursor: pointer;
-      width: 200px;
+      width: 280px;
       margin: auto;
+      background-color: #f9f9f9;
     }
 
     .project-card:hover {
       transform: scale(1.05);
-      box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
     }
 
     .project-card img {
       width: 100%;
-      height: auto;
-      border-radius: 10px;
+      height: 150px;
+      object-fit: cover;
+      border-radius: 12px;
+    }
+
+    .project-card h3 {
+      font-size: 1.3em;
+      margin: 15px 0;
+      font-weight: 600;
+      color: #2c3e50;
     }
 
     .project-card a {
       text-decoration: none;
       color: #3498db;
       font-weight: bold;
+      padding: 10px 20px;
+      background-color: rgba(52, 152, 219, 0.2);
+      border-radius: 5px;
+      margin-top: 10px;
+      display: inline-block;
+      transition: background-color 0.3s;
+    }
+
+    .project-card a:hover {
+      background-color: rgba(52, 152, 219, 0.5);
     }
 
     /* Footer */
@@ -122,11 +157,27 @@
       color: white;
       text-align: center;
       padding: 20px;
+      font-size: 1.1em;
     }
 
     footer a {
       color: white;
       text-decoration: none;
+    }
+
+    /* Responsive Design */
+    @media screen and (max-width: 768px) {
+      header h1 {
+        font-size: 2.5em;
+      }
+
+      header p {
+        font-size: 1.2em;
+      }
+
+      .project-card {
+        width: 100%;
+      }
     }
   </style>
 </head>
@@ -146,61 +197,61 @@
   </header>
 
   <!-- About Section -->
-<section id="about">
-  <h2><i class="fas fa-user-circle"></i> About Me</h2>
-  <p>💡 &nbsp;I am a <strong>Principal Program Manager</strong> at <strong>Discover Financial Services</strong>, currently transitioning into <strong>data science</strong> and <strong>data modeling</strong> roles.</p>
-  <p>🎓 &nbsp;I hold an <strong>MBA in Business Analytics</strong> from <strong>Texas Woman's University</strong> and am completing my <strong>Master's in Data Science</strong> from <strong>Bellevue University</strong>.</p>
-  <p>🌱 &nbsp;I am passionate about <strong>machine learning</strong>, <strong>predictive analytics</strong>, and solving <strong>real-world business problems</strong> such as <strong>customer churn</strong>, <strong>fraud detection</strong>, and <strong>credit risk modeling</strong>.</p>
-</section>
+  <section id="about">
+    <h2><i class="fas fa-user-circle"></i> About Me</h2>
+    <p>💡 &nbsp;I am a <strong>Principal Program Manager</strong> at <strong>Discover Financial Services</strong>, currently transitioning into <strong>data science</strong> and <strong>data modeling</strong> roles.</p>
+    <p>🎓 &nbsp;I hold an <strong>MBA in Business Analytics</strong> from <strong>Texas Woman's University</strong> and am completing my <strong>Master's in Data Science</strong> from <strong>Bellevue University</strong>.</p>
+    <p>🌱 &nbsp;I am passionate about <strong>machine learning</strong>, <strong>predictive analytics</strong>, and solving <strong>real-world business problems</strong> such as <strong>customer churn</strong>, <strong>fraud detection</strong>, and <strong>credit risk modeling</strong>.</p>
+  </section>
 
-<!-- Projects Section -->
-<section id="projects">
-  <h2><i class="fas fa-project-diagram"></i> Portfolio</h2>
-  
-  <!-- Customer Churn Prediction Project -->
-  <div class="project-card">
-    <img src="https://via.placeholder.com/150" alt="Customer Churn">
-    <h3>Customer Churn Prediction</h3>
-    <p>Predict customer churn in the financial industry using machine learning.</p>
-    <a href="https://github.com/cheryltaf85/Customer-Churn-Prediction">View Project</a>
-  </div>
+  <!-- Projects Section -->
+  <section id="projects">
+    <h2><i class="fas fa-project-diagram"></i> Portfolio</h2>
 
-  <!-- Food Access Project -->
-  <div class="project-card">
-    <img src="https://via.placeholder.com/150" alt="Food Access">
-    <h3>Food Access Project</h3>
-    <p>Analyze food access and availability across regions to address food insecurity.</p>
-    <a href="https://github.com/CherylMachingura/cheryltaf85.github.io/blob/main/FoodAccessProject.ipynb">View Project</a>
-  </div>
+    <!-- Customer Churn Prediction Project -->
+    <div class="project-card">
+      <img src="https://via.placeholder.com/150" alt="Customer Churn">
+      <h3>Customer Churn Prediction</h3>
+      <p>Predict customer churn in the financial industry using machine learning.</p>
+      <a href="https://github.com/cheryltaf85/Customer-Churn-Prediction">View Project</a>
+    </div>
 
-  <!-- Fraud Detection in Credit Card Transactions Project -->
-  <div class="project-card">
-    <img src="https://via.placeholder.com/150" alt="Fraud Detection">
-    <h3>Fraud Detection in Credit Card Transactions</h3>
-    <p>Identify fraudulent credit card transactions using machine learning techniques.</p>
-    <a href="https://github.com/CherylMachingura/cheryltaf85.github.io/blob/main/Fraud%20Detection%20in%20Credit%20Card%20Transactions.ipynb">View Project</a>
-  </div>
+    <!-- Food Access Project -->
+    <div class="project-card">
+      <img src="https://via.placeholder.com/150" alt="Food Access">
+      <h3>Food Access Project</h3>
+      <p>Analyze food access and availability across regions to address food insecurity.</p>
+      <a href="https://github.com/CherylMachingura/cheryltaf85.github.io/blob/main/FoodAccessProject.ipynb">View Project</a>
+    </div>
 
-  <!-- Real Estate Analysis Project -->
-  <div class="project-card">
-    <img src="https://via.placeholder.com/150" alt="Real Estate Analysis">
-    <h3>Real Estate Price Prediction</h3>
-    <p>Predict real estate prices based on location, size, and other features using machine learning.</p>
-    <a href="https://github.com/CherylMachingura/cheryltaf85.github.io/tree/main/projects/real-estate-analysis">View Project</a>
-  </div>
-  
-</section>
+    <!-- Fraud Detection in Credit Card Transactions Project -->
+    <div class="project-card">
+      <img src="https://via.placeholder.com/150" alt="Fraud Detection">
+      <h3>Fraud Detection in Credit Card Transactions</h3>
+      <p>Identify fraudulent credit card transactions using machine learning techniques.</p>
+      <a href="https://github.com/CherylMachingura/cheryltaf85.github.io/blob/main/Fraud%20Detection%20in%20Credit%20Card%20Transactions.ipynb">View Project</a>
+    </div>
 
-<!-- Contact Section -->
-<section id="contact">
-  <h2><i class="fas fa-phone"></i> Contact Me</h2>
-  <p>If you're interested in working together or have any questions, feel free to reach out!</p>
-  <p>📧 &nbsp;Email: <a href="mailto:cherylmachingura.pm@gmail.com">cherylmachingura.pm@gmail.com</a></p>
-</section>
+    <!-- Real Estate Analysis Project -->
+    <div class="project-card">
+      <img src="https://via.placeholder.com/150" alt="Real Estate Analysis">
+      <h3>Real Estate Price Prediction</h3>
+      <p>Predict real estate prices based on location, size, and other features using machine learning.</p>
+      <a href="https://github.com/CherylMachingura/cheryltaf85.github.io/tree/main/projects/real-estate-analysis">View Project</a>
+    </div>
 
-<!-- Footer Section -->
-<footer>
-  <p>Connect with me on <a href="https://www.linkedin.com/in/cherylmachingura/">LinkedIn</a> or <a href="https://twitter.com/cheryl_taf">Twitter</a></p>
-</footer>
+  </section>
+
+  <!-- Contact Section -->
+  <section id="contact">
+    <h2><i class="fas fa-phone"></i> Contact Me</h2>
+    <p>If you're interested in working together or have any questions, feel free to reach out!</p>
+    <p>📧 &nbsp;Email: <a href="mailto:cherylmachingura.pm@gmail.com">cherylmachingura.pm@gmail.com</a></p>
+  </section>
+
+  <!-- Footer Section -->
+  <footer>
+    <p>Connect with me on <a href="https://www.linkedin.com/in/cherylmachingura/">LinkedIn</a> or <a href="https://twitter.com/cheryl_taf">Twitter</a></p>
+  </footer>
 </body>
 </html>
