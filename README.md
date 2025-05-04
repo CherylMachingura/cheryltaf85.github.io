@@ -18,7 +18,7 @@
 ## 💼 &nbsp;Projects
 
 ### **1. Customer Churn Prediction**  
-![Customer Churn]((https://github.com/CherylMachingura/cheryltaf85.github.io/tree/main/projects/credit-churn))  
+![Customer Churn](https://github.com/CherylMachingura/cheryltaf85.github.io/tree/main/projects/credit-churn)  
 *Business Problem:*  
 Predicting customer churn helps financial institutions reduce customer attrition and improve retention strategies.
 
@@ -27,8 +27,7 @@ Predicting customer churn helps financial institutions reduce customer attrition
 - **Techniques:** Logistic regression, decision trees, and random forests.  
 - **Result:** Achieved 85% accuracy with the Random Forest model. Key predictors included credit utilization and transaction frequency.
 
-[**GitHub Repository**](https://github.com/cheryltaf85/Customer-Churn-Prediction)
-
+[**GitHub Repository**][https://github.com/CherylMachingura/cheryltaf85.github.io/tree/main/projects/credit-churn]
 ---
 
 ### **2. Credit Risk Modeling for Loan Approvals**  
