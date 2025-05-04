@@ -59,14 +59,14 @@
 
 <hr>
 
-<h3>4. Real Estate Price Prediction</h3>
+<h3>4. Food Access Project</h3>
 <img src="https://github.com/CherylMachingura/cheryltaf85.github.io/blob/main/FoodAccessProject.ipynb">
-<p>Business Problem: Predicting real estate prices helps investors, agents, and buyers make informed decisions. This project used machine learning to predict housing prices based on location, size, and other features.</p>
+<p>Business Problem: Understanding food access and availability is critical to addressing food insecurity in various regions. This project focuses on analyzing data about food access across different regions to identify patterns and areas needing improvement.</p>
 <p>Approach/Methodology:  
   <ul>
-    <li>Dataset: House Prices - Advanced Regression Techniques (Kaggle)</li>
-    <li>Techniques: XGBoost, linear regression, and Lasso regression.</li>
-    <li>Result: The XGBoost model achieved an RMSE of 0.12, providing accurate price predictions.</li>
+    <li>Dataset: [Insert dataset name or link if available]</li>
+    <li>Techniques: Data exploration, regression analysis, and geographic information system (GIS) analysis.</li>
+    <li>Result: The analysis helped identify key factors contributing to food deserts and geographic areas with limited access to fresh and affordable food.</li>
   </ul>
 </p>
 <a href="https://github.com/CherylMachingura/cheryltaf85.github.io/blob/main/FoodAccessProject.ipynb">GitHub Repository</a>
