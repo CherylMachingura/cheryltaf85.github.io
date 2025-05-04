@@ -1,6 +1,6 @@
 <h1>👋 &nbsp;Welcome to My Portfolio!</h1>
 
-<img src="https://github.com/CherylMachingura/cheryltaf85.github.io/blob/main/Cheryl%20professional%20picture.jpeg?raw=true" alt="Cheryl's Professional Photo">  
+<img src="(https://github.com/CherylMachingura/cheryltaf85.github.io/blob/main/Professionalimage.JPG)">  
 <p>Hi there, I'm Cheryl! Welcome to my portfolio.</p>
 
 <h2>👨🏻‍💻 &nbsp;About Me</h2>
