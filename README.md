@@ -60,7 +60,7 @@
 <hr>
 
 <h3>4. Real Estate Price Prediction</h3>
-<img src="https://via.placeholder.com/150" alt="Real Estate">
+<img src="https://github.com/CherylMachingura/cheryltaf85.github.io/blob/main/FoodAccessProject.ipynb">
 <p>Business Problem: Predicting real estate prices helps investors, agents, and buyers make informed decisions. This project used machine learning to predict housing prices based on location, size, and other features.</p>
 <p>Approach/Methodology:  
   <ul>
@@ -69,21 +69,7 @@
     <li>Result: The XGBoost model achieved an RMSE of 0.12, providing accurate price predictions.</li>
   </ul>
 </p>
-<a href="https://github.com/cheryltaf85/Real-Estate-Price-Prediction">GitHub Repository</a>
-
-<hr>
-
-<h3>5. National Childcare Prices Analysis</h3>
-<img src="https://via.placeholder.com/150" alt="Childcare Prices">
-<p>Business Problem: This analysis aimed to understand the trends in childcare pricing across the U.S., with a focus on affordability and regional price variations.</p>
-<p>Approach/Methodology:  
-  <ul>
-    <li>Dataset: National Database of Childcare Prices</li>
-    <li>Techniques: Exploratory data analysis (EDA) and data visualization using Tableau.</li>
-    <li>Result: Revealed significant price differences between urban and rural areas, as well as pricing trends over time.</li>
-  </ul>
-</p>
-<a href="https://github.com/cheryltaf85/Childcare-Prices-Analysis">GitHub Repository</a>
+<a href="https://github.com/CherylMachingura/cheryltaf85.github.io/blob/main/FoodAccessProject.ipynb">GitHub Repository</a>
 
 <hr>
 
