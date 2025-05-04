@@ -1,17 +1,17 @@
 # 👋 &nbsp;Welcome to My Portfolio!
 
 ![Cheryl's Professional Photo](https://github.com/CherylMachingura/cheryltaf85.github.io/blob/main/Cheryl%20professional%20picture.jpeg?raw=true)  
-*Hi there, I'm Cheryl! Welcome to my portfolio.*
+Hi there, I'm Cheryl! Welcome to my portfolio.
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I am a **Principal Program Manager** at **Discover Financial Services**, currently transitioning into **data science** and **data modeling** roles.  
-🎓 &nbsp;I hold an **MBA in Business Analytics** from **Texas Woman's University** and am completing my **Master's in Data Science** from **Bellevue University**.  
-🌱 &nbsp;I am passionate about **machine learning**, **predictive analytics**, and solving **real-world business problems** such as **customer churn**, **fraud detection**, and **credit risk modeling**.  
-✍️ &nbsp;In my free time, I enjoy creating impactful **data visualizations**, contributing to **data science communities**, and working on **side projects**.  
-💬 &nbsp;Feel free to reach out to me for **collaborations**, **job opportunities**, or just for an engaging **data science discussion**.  
-✉️ &nbsp;You can shoot me an email at **[cherylmachingura.pm@gmail.com](mailto:cherylmachingura.pm@gmail.com)**. I’ll get back to you as soon as possible.  
-📄 &nbsp;Please check out my **[Résumé](https://drive.google.com/file/d/1CgTBBelcsjjc-4VOdApL9c76vvTL49Fe/view?usp=sharing)** for more details about me.
+💡 &nbsp;I am a <strong>Principal Program Manager</strong> at <strong>Discover Financial Services</strong>, currently transitioning into <strong>data science</strong> and <strong>data modeling</strong> roles.  
+🎓 &nbsp;I hold an <strong>MBA in Business Analytics</strong> from <strong>Texas Woman's University</strong> and am completing my <strong>Master's in Data Science</strong> from <strong>Bellevue University</strong>.  
+🌱 &nbsp;I am passionate about <strong>machine learning</strong>, <strong>predictive analytics</strong>, and solving <strong>real-world business problems</strong> such as <strong>customer churn</strong>, <strong>fraud detection</strong>, and <strong>credit risk modeling</strong>.  
+✍️ &nbsp;In my free time, I enjoy creating impactful <strong>data visualizations</strong>, contributing to <strong>data science communities</strong>, and working on <strong>side projects</strong>.  
+💬 &nbsp;Feel free to reach out to me for <strong>collaborations</strong>, <strong>job opportunities</strong>, or just for an engaging <strong>data science discussion</strong>.  
+✉️ &nbsp;You can shoot me an email at <a href="mailto:cherylmachingura.pm@gmail.com">cherylmachingura.pm@gmail.com</a>. I’ll get back to you as soon as possible.  
+📄 &nbsp;Please check out my <a href="https://drive.google.com/file/d/1CgTBBelcsjjc-4VOdApL9c76vvTL49Fe/view?usp=sharing">Résumé</a> for more details about me.
 
 ---
 
@@ -23,11 +23,12 @@
 Predicting customer churn helps financial institutions reduce customer attrition and improve retention strategies.
 
 *Approach/Methodology:*  
-- **Dataset:** BankChurners.csv  
-- **Techniques:** Logistic regression, decision trees, and random forests.  
-- **Result:** Achieved 85% accuracy with the Random Forest model. Key predictors included credit utilization and transaction frequency.
+- <strong>Dataset:</strong> BankChurners.csv  
+- <strong>Techniques:</strong> Logistic regression, decision trees, and random forests.  
+- <strong>Result:</strong> Achieved 85% accuracy with the Random Forest model. Key predictors included credit utilization and transaction frequency.
 
-[**GitHub Repository**][https://github.com/CherylMachingura/cheryltaf85.github.io/tree/main/projects/credit-churn]
+<a href="https://github.com/CherylMachingura/cheryltaf85.github.io/tree/main/projects/credit-churn">GitHub Repository</a>
+
 ---
 
 ### **2. Credit Risk Modeling for Loan Approvals**  
@@ -36,11 +37,11 @@ Predicting customer churn helps financial institutions reduce customer attrition
 This project aimed to predict the risk of loan defaults, helping lenders to assess potential risks before approving loans.
 
 *Approach/Methodology:*  
-- **Dataset:** Home Credit Default Risk Dataset (Kaggle)  
-- **Techniques:** Logistic regression, KNN, and random forest classifiers.  
-- **Result:** Achieved an F1-score of 0.78, identifying significant predictors such as income, loan amount, and credit history.
+- <strong>Dataset:</strong> Home Credit Default Risk Dataset (Kaggle)  
+- <strong>Techniques:</strong> Logistic regression, KNN, and random forest classifiers.  
+- <strong>Result:</strong> Achieved an F1-score of 0.78, identifying significant predictors such as income, loan amount, and credit history.
 
-[**GitHub Repository**](https://github.com/cheryltaf85/Credit-Risk-Modeling)
+<a href="https://github.com/cheryltaf85/Credit-Risk-Modeling">GitHub Repository</a>
 
 ---
 
@@ -50,11 +51,11 @@ This project aimed to predict the risk of loan defaults, helping lenders to asse
 Fraud detection is a crucial task for preventing financial losses. This project aimed to identify fraudulent transactions in real-time using machine learning.
 
 *Approach/Methodology:*  
-- **Dataset:** Credit Card Fraud Detection Dataset (Kaggle)  
-- **Techniques:** Isolation Forest, SVM, and Random Forest.  
-- **Result:** Achieved an F1-score of 0.85, with the model identifying 90% of fraudulent transactions.
+- <strong>Dataset:</strong> Credit Card Fraud Detection Dataset (Kaggle)  
+- <strong>Techniques:</strong> Isolation Forest, SVM, and Random Forest.  
+- <strong>Result:</strong> Achieved an F1-score of 0.85, with the model identifying 90% of fraudulent transactions.
 
-[**GitHub Repository**](https://github.com/cheryltaf85/Fraud-Detection-Credit-Card)
+<a href="https://github.com/cheryltaf85/Fraud-Detection-Credit-Card">GitHub Repository</a>
 
 ---
 
@@ -64,11 +65,11 @@ Fraud detection is a crucial task for preventing financial losses. This project 
 Predicting real estate prices helps investors, agents, and buyers make informed decisions. This project used machine learning to predict housing prices based on location, size, and other features.
 
 *Approach/Methodology:*  
-- **Dataset:** House Prices - Advanced Regression Techniques (Kaggle)  
-- **Techniques:** XGBoost, linear regression, and Lasso regression.  
-- **Result:** The XGBoost model achieved an RMSE of 0.12, providing accurate price predictions.
+- <strong>Dataset:</strong> House Prices - Advanced Regression Techniques (Kaggle)  
+- <strong>Techniques:</strong> XGBoost, linear regression, and Lasso regression.  
+- <strong>Result:</strong> The XGBoost model achieved an RMSE of 0.12, providing accurate price predictions.
 
-[**GitHub Repository**](https://github.com/cheryltaf85/Real-Estate-Price-Prediction)
+<a href="https://github.com/cheryltaf85/Real-Estate-Price-Prediction">GitHub Repository</a>
 
 ---
 
@@ -78,11 +79,11 @@ Predicting real estate prices helps investors, agents, and buyers make informed 
 This analysis aimed to understand the trends in childcare pricing across the U.S., with a focus on affordability and regional price variations.
 
 *Approach/Methodology:*  
-- **Dataset:** National Database of Childcare Prices  
-- **Techniques:** Exploratory data analysis (EDA) and data visualization using Tableau.  
-- **Result:** Revealed significant price differences between urban and rural areas, as well as pricing trends over time.
+- <strong>Dataset:</strong> National Database of Childcare Prices  
+- <strong>Techniques:</strong> Exploratory data analysis (EDA) and data visualization using Tableau.  
+- <strong>Result:</strong> Revealed significant price differences between urban and rural areas, as well as pricing trends over time.
 
-[**GitHub Repository**](https://github.com/cheryltaf85/Childcare-Prices-Analysis)
+<a href="https://github.com/cheryltaf85/Childcare-Prices-Analysis">GitHub Repository</a>
 
 ---
 
@@ -110,7 +111,8 @@ This analysis aimed to understand the trends in childcare pricing across the U.S
 </p>
 
 -----
-Credits: [Cheryl Machingura](https://github.com/cheryltaf85)
+Credits: <a href="https://github.com/cheryltaf85">Cheryl Machingura</a>
+
 
 
 
