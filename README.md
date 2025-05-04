@@ -5,11 +5,11 @@
 
 <h2>👨🏻‍💻 &nbsp;About Me</h2>
 
-<p>💡 &nbsp;I am a <strong>Principal Program Manager</strong> at <strong>Discover Financial Services</strong>, currently transitioning into <strong>data science</strong> and <strong>data modeling</strong> roles.</p>
-<p>🎓 &nbsp;I hold an <strong>MBA in Business Analytics</strong> from <strong>Texas Woman's University</strong> and am completing my <strong>Master's in Data Science</strong> from <strong>Bellevue University</strong>.</p>
-<p>🌱 &nbsp;I am passionate about <strong>machine learning</strong>, <strong>predictive analytics</strong>, and solving <strong>real-world business problems</strong> such as <strong>customer churn</strong>, <strong>fraud detection</strong>, and <strong>credit risk modeling</strong>.</p>
-<p>✍️ &nbsp;In my free time, I enjoy creating impactful <strong>data visualizations</strong>, contributing to <strong>data science communities</strong>, and working on <strong>side projects</strong>.</p>
-<p>💬 &nbsp;Feel free to reach out to me for <strong>collaborations</strong>, <strong>job opportunities</strong>, or just for an engaging <strong>data science discussion</strong>.</p>
+<p>💡 &nbsp;I am a Principal Program Manager at Discover Financial Services, currently transitioning into data science and data modeling roles.</p>
+<p>🎓 &nbsp;I hold an MBA in Business Analytics from Texas Woman's University and am completing my Master's in Data Science from Bellevue University.</p>
+<p>🌱 &nbsp;I am passionate about machine learning, predictive analytics, and solving real-world business problems such as customer churn, fraud detection, and credit risk modeling.</p>
+<p>✍️ &nbsp;In my free time, I enjoy creating impactful data visualizations, contributing to data science communities, and working on side projects.</p>
+<p>💬 &nbsp;Feel free to reach out to me for collaborations, job opportunities, or just for an engaging data science discussion.</p>
 <p>✉️ &nbsp;You can shoot me an email at <a href="mailto:cherylmachingura.pm@gmail.com">cherylmachingura.pm@gmail.com</a>. I’ll get back to you as soon as possible.</p>
 <p>📄 &nbsp;Please check out my <a href="https://drive.google.com/file/d/1CgTBBelcsjjc-4VOdApL9c76vvTL49Fe/view?usp=sharing">Résumé</a> for more details about me.</p>
 
@@ -19,12 +19,12 @@
 
 <h3>1. Customer Churn Prediction</h3>
 <img src="https://github.com/CherylMachingura/cheryltaf85.github.io/tree/main/projects/credit-churn" alt="Customer Churn">
-<p><strong>Business Problem:</strong> Predicting customer churn helps financial institutions reduce customer attrition and improve retention strategies.</p>
-<p><strong>Approach/Methodology:</strong>  
+<p>Business Problem: Predicting customer churn helps financial institutions reduce customer attrition and improve retention strategies.</p>
+<p>Approach/Methodology:  
   <ul>
-    <li><strong>Dataset:</strong> BankChurners.csv</li>
-    <li><strong>Techniques:</strong> Logistic regression, decision trees, and random forests.</li>
-    <li><strong>Result:</strong> Achieved 85% accuracy with the Random Forest model. Key predictors included credit utilization and transaction frequency.</li>
+    <li>Dataset: BankChurners.csv</li>
+    <li>Techniques: Logistic regression, decision trees, and random forests.</li>
+    <li>Result: Achieved 85% accuracy with the Random Forest model. Key predictors included credit utilization and transaction frequency.</li>
   </ul>
 </p>
 <a href="https://github.com/CherylMachingura/cheryltaf85.github.io/tree/main/projects/credit-churn">GitHub Repository</a>
@@ -33,12 +33,12 @@
 
 <h3>2. Credit Risk Modeling for Loan Approvals</h3>
 <img src="https://via.placeholder.com/150" alt="Credit Risk">
-<p><strong>Business Problem:</strong> This project aimed to predict the risk of loan defaults, helping lenders to assess potential risks before approving loans.</p>
-<p><strong>Approach/Methodology:</strong>  
+<p>Business Problem: This project aimed to predict the risk of loan defaults, helping lenders to assess potential risks before approving loans.</p>
+<p>Approach/Methodology:  
   <ul>
-    <li><strong>Dataset:</strong> Home Credit Default Risk Dataset (Kaggle)</li>
-    <li><strong>Techniques:</strong> Logistic regression, KNN, and random forest classifiers.</li>
-    <li><strong>Result:</strong> Achieved an F1-score of 0.78, identifying significant predictors such as income, loan amount, and credit history.</li>
+    <li>Dataset: Home Credit Default Risk Dataset (Kaggle)</li>
+    <li>Techniques: Logistic regression, KNN, and random forest classifiers.</li>
+    <li>Result: Achieved an F1-score of 0.78, identifying significant predictors such as income, loan amount, and credit history.</li>
   </ul>
 </p>
 <a href="https://github.com/cheryltaf85/Credit-Risk-Modeling">GitHub Repository</a>
@@ -47,12 +47,12 @@
 
 <h3>3. Fraud Detection in Credit Card Transactions</h3>
 <img src="https://via.placeholder.com/150" alt="Fraud Detection">
-<p><strong>Business Problem:</strong> Fraud detection is a crucial task for preventing financial losses. This project aimed to identify fraudulent transactions in real-time using machine learning.</p>
-<p><strong>Approach/Methodology:</strong>  
+<p>Business Problem: Fraud detection is a crucial task for preventing financial losses. This project aimed to identify fraudulent transactions in real-time using machine learning.</p>
+<p>Approach/Methodology:  
   <ul>
-    <li><strong>Dataset:</strong> Credit Card Fraud Detection Dataset (Kaggle)</li>
-    <li><strong>Techniques:</strong> Isolation Forest, SVM, and Random Forest.</li>
-    <li><strong>Result:</strong> Achieved an F1-score of 0.85, with the model identifying 90% of fraudulent transactions.</li>
+    <li>Dataset: Credit Card Fraud Detection Dataset (Kaggle)</li>
+    <li>Techniques: Isolation Forest, SVM, and Random Forest.</li>
+    <li>Result: Achieved an F1-score of 0.85, with the model identifying 90% of fraudulent transactions.</li>
   </ul>
 </p>
 <a href="https://github.com/cheryltaf85/Fraud-Detection-Credit-Card">GitHub Repository</a>
@@ -61,12 +61,12 @@
 
 <h3>4. Real Estate Price Prediction</h3>
 <img src="https://via.placeholder.com/150" alt="Real Estate">
-<p><strong>Business Problem:</strong> Predicting real estate prices helps investors, agents, and buyers make informed decisions. This project used machine learning to predict housing prices based on location, size, and other features.</p>
-<p><strong>Approach/Methodology:</strong>  
+<p>Business Problem: Predicting real estate prices helps investors, agents, and buyers make informed decisions. This project used machine learning to predict housing prices based on location, size, and other features.</p>
+<p>Approach/Methodology:  
   <ul>
-    <li><strong>Dataset:</strong> House Prices - Advanced Regression Techniques (Kaggle)</li>
-    <li><strong>Techniques:</strong> XGBoost, linear regression, and Lasso regression.</li>
-    <li><strong>Result:</strong> The XGBoost model achieved an RMSE of 0.12, providing accurate price predictions.</li>
+    <li>Dataset: House Prices - Advanced Regression Techniques (Kaggle)</li>
+    <li>Techniques: XGBoost, linear regression, and Lasso regression.</li>
+    <li>Result: The XGBoost model achieved an RMSE of 0.12, providing accurate price predictions.</li>
   </ul>
 </p>
 <a href="https://github.com/cheryltaf85/Real-Estate-Price-Prediction">GitHub Repository</a>
@@ -75,12 +75,12 @@
 
 <h3>5. National Childcare Prices Analysis</h3>
 <img src="https://via.placeholder.com/150" alt="Childcare Prices">
-<p><strong>Business Problem:</strong> This analysis aimed to understand the trends in childcare pricing across the U.S., with a focus on affordability and regional price variations.</p>
-<p><strong>Approach/Methodology:</strong>  
+<p>Business Problem: This analysis aimed to understand the trends in childcare pricing across the U.S., with a focus on affordability and regional price variations.</p>
+<p>Approach/Methodology:  
   <ul>
-    <li><strong>Dataset:</strong> National Database of Childcare Prices</li>
-    <li><strong>Techniques:</strong> Exploratory data analysis (EDA) and data visualization using Tableau.</li>
-    <li><strong>Result:</strong> Revealed significant price differences between urban and rural areas, as well as pricing trends over time.</li>
+    <li>Dataset: National Database of Childcare Prices</li>
+    <li>Techniques: Exploratory data analysis (EDA) and data visualization using Tableau.</li>
+    <li>Result: Revealed significant price differences between urban and rural areas, as well as pricing trends over time.</li>
   </ul>
 </p>
 <a href="https://github.com/cheryltaf85/Childcare-Prices-Analysis">GitHub Repository</a>
@@ -89,18 +89,18 @@
 
 <h2>🛠 &nbsp;Tech Stack</h2>
 
-<p><strong>Languages & Frameworks:</strong></p>
+<p>Languages & Frameworks:</p>
 <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"> 
 <img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql&logoColor=336791"> 
 <img src="https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3"> 
 <img src="https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00">
 
-<p><strong>Tools & Technologies:</strong></p>
+<p>Tools & Technologies:</p>
 <img src="https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau&logoColor=006F8E"> 
 <img src="https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi"> 
 <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">
 
-<p><strong>Machine Learning & Data Science Libraries:</strong></p>
+<p>Machine Learning & Data Science Libraries:</p>
 <img src="https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras&logoColor=D00000"> 
 <img src="https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat&logo=scikit-learn">
 
