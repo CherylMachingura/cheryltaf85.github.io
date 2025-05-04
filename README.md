@@ -1,6 +1,6 @@
 <h1>👋 &nbsp;Welcome to My Portfolio!</h1>
 
-<img src="(https://github.com/CherylMachingura/cheryltaf85.github.io/blob/main/Professionalimage.JPG)">  
+<img src="https://github.com/CherylMachingura/cheryltaf85.github.io/blob/main/Professionalimage.JPG" alt="Cheryl's Professional Photo">  
 <p>Hi there, I'm Cheryl! Welcome to my portfolio.</p>
 
 <h2>👨🏻‍💻 &nbsp;About Me</h2>
@@ -119,6 +119,7 @@
 <hr>
 
 <p>Credits: <a href="https://github.com/cheryltaf85">Cheryl Machingura</a></p>
+
 
 
 
