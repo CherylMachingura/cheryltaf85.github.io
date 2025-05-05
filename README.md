@@ -32,6 +32,9 @@ This project aims to predict real estate prices using regression models, incorpo
 
 ---
 
+
+
+
 ## Core Competencies
 
 - **Methodologies**: Agile, Scrum, Data Science, Predictive Analytics, Machine Learning, Statistical Modeling, Time Series Analysis
