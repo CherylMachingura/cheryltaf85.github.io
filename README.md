@@ -15,19 +15,19 @@ This portfolio is a compilation of my Data Science and Data Analysis projects, p
 ## Projects
 
 ### **[Customer Churn Prediction](https://github.com/cheryltaf85/Customer-Churn-Prediction)**
-<img align="left" width="250" height="150" src="https://via.placeholder.com/150">
+<img align="left" width="250" height="150" src="https://github.com/CherylMachingura/cheryltaf85.github.io/blob/main/customerchurn.png">
 This project focuses on predicting customer churn using survival analysis and machine learning models like Random Forest. I deployed the solution using Flask and hosted it on Heroku.
 
 ### **[Food Access Project](https://github.com/cheryltaf85/cheryltaf85.github.io/blob/main/FoodAccessProject.ipynb)**
-<img align="left" width="250" height="150" src="https://via.placeholder.com/150">
+<img align="left" width="250" height="150" src="https://github.com/CherylMachingura/cheryltaf85.github.io/blob/main/foodaccess.png">
 Analyzed food access across different regions to tackle food insecurity. This project uses data visualization and Python for processing and analyzing access patterns.
 
 ### **[Fraud Detection in Credit Card Transactions](https://github.com/cheryltaf85/cheryltaf85.github.io/blob/main/Fraud%20Detection%20in%20Credit%20Card%20Transactions.ipynb)**
-<img align="left" width="250" height="150" src="https://via.placeholder.com/150">
+<img align="left" width="250" height="150" src="https://github.com/CherylMachingura/cheryltaf85.github.io/blob/main/frauddetection.png">
 In this project, I used machine learning techniques like Isolation Forest and Random Forest to detect fraudulent credit card transactions, focusing on feature engineering and model optimization.
 
 ### **[Real Estate Price Prediction](https://github.com/cheryltaf85/cheryltaf85.github.io/tree/main/projects/real-estate-analysis)**
-<img align="left" width="250" height="150" src="https://via.placeholder.com/150">
+<img align="left" width="250" height="150" src="https://github.com/CherylMachingura/cheryltaf85.github.io/blob/main/realestate.png">
 This project aims to predict real estate prices using regression models, incorporating features such as location, size, and amenities.
 
 ---
