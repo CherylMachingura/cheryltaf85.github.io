@@ -1,110 +1,62 @@
-<h1>👋 &nbsp;Welcome to My Portfolio!</h1>
+# Cheryl Machingura - Data Science Portfolio
+This portfolio is a compilation of my Data Science and Data Analysis projects, primarily focused on machine learning, data preparation, and predictive analytics. The portfolio includes academic projects, personal learning, and hobby projects that reflect my journey toward becoming a data scientist.
 
-<img src="https://github.com/CherylMachingura/cheryltaf85.github.io/blob/main/Professionalimage.JPG" alt="Cheryl's Professional Photo">  
-<p>Hi there, I'm Cheryl! Welcome to my portfolio.</p>
+- **Email**: [cherylmachingura.pm@gmail.com](mailto:cherylmachingura.pm@gmail.com)
+- **LinkedIn**: [linkedin.com/in/cherylmachingura](https://www.linkedin.com/in/cherylmachingura/)
+- **GitHub**: [github.com/cheryltaf85](https://github.com/cheryltaf85)
 
-<h2>👨🏻‍💻 &nbsp;About Me</h2>
+## Achievements
+- **Lead Program Manager at Discover Financial Services**, focusing on improving team agility and delivering high-quality projects using Agile methodologies.
+- **Coached cross-functional teams** to implement Agile practices, improving project delivery by 15%.
+- **Developed dashboards in Jira** for team performance tracking, enhancing transparency and decision-making processes.
+- **Collaborated with data engineering teams** to align project priorities with business goals, ensuring on-time delivery of key data projects.
+- **Participated in a hackathon** with Data Modelers at Discover Financial Services, focusing on fraud detection. The team collaborated to build an innovative fraud detection model using machine learning techniques.
 
-<p>💡 &nbsp;I am a Principal Program Manager at Discover Financial Services, currently transitioning into data science and data modeling roles.</p>
-<p>🎓 &nbsp;I hold an MBA in Business Analytics from Texas Woman's University and am completing my Master's in Data Science from Bellevue University.</p>
-<p>🌱 &nbsp;I am passionate about machine learning, predictive analytics, and solving real-world business problems such as customer churn, fraud detection, and credit risk modeling.</p>
-<p>✍️ &nbsp;In my free time, I enjoy creating impactful data visualizations, contributing to data science communities, and working on side projects.</p>
-<p>💬 &nbsp;Feel free to reach out to me for collaborations, job opportunities, or just for an engaging data science discussion.</p>
-<p>✉️ &nbsp;You can shoot me an email at <a href="mailto:cherylmachingura.pm@gmail.com">cherylmachingura.pm@gmail.com</a>. I’ll get back to you as soon as possible.</p>
-<p>📄 &nbsp;Please check out my <a href="https://drive.google.com/file/d/1CgTBBelcsjjc-4VOdApL9c76vvTL49Fe/view?usp=sharing">Résumé</a> for more details about me.</p>
+## Projects
 
-<hr>
+### **[Customer Churn Prediction](https://github.com/cheryltaf85/Customer-Churn-Prediction)**
+<img align="left" width="250" height="150" src="https://via.placeholder.com/150">
+This project focuses on predicting customer churn using survival analysis and machine learning models like Random Forest. I deployed the solution using Flask and hosted it on Heroku.
 
-<h2>💼 &nbsp;Projects</h2>
+### **[Food Access Project](https://github.com/cheryltaf85/cheryltaf85.github.io/blob/main/FoodAccessProject.ipynb)**
+<img align="left" width="250" height="150" src="https://via.placeholder.com/150">
+Analyzed food access across different regions to tackle food insecurity. This project uses data visualization and Python for processing and analyzing access patterns.
 
-<h3>1. Customer Churn Prediction</h3>
-<img src="https://github.com/CherylMachingura/cheryltaf85.github.io/tree/main/projects/credit-churn" alt="Customer Churn">
-<p>Business Problem: Predicting customer churn helps financial institutions reduce customer attrition and improve retention strategies.</p>
-<p>Approach/Methodology:  
-  <ul>
-    <li>Dataset: BankChurners.csv</li>
-    <li>Techniques: Logistic regression, decision trees, and random forests.</li>
-    <li>Result: Achieved 85% accuracy with the Random Forest model. Key predictors included credit utilization and transaction frequency.</li>
-  </ul>
-</p>
-<a href="https://github.com/CherylMachingura/cheryltaf85.github.io/tree/main/projects/credit-churn">GitHub Repository</a>
+### **[Fraud Detection in Credit Card Transactions](https://github.com/cheryltaf85/cheryltaf85.github.io/blob/main/Fraud%20Detection%20in%20Credit%20Card%20Transactions.ipynb)**
+<img align="left" width="250" height="150" src="https://via.placeholder.com/150">
+In this project, I used machine learning techniques like Isolation Forest and Random Forest to detect fraudulent credit card transactions, focusing on feature engineering and model optimization.
 
-<hr>
+### **[Real Estate Price Prediction](https://github.com/cheryltaf85/cheryltaf85.github.io/tree/main/projects/real-estate-analysis)**
+<img align="left" width="250" height="150" src="https://via.placeholder.com/150">
+This project aims to predict real estate prices using regression models, incorporating features such as location, size, and amenities.
 
-<h3>2. Credit Risk Modeling for Loan Approvals</h3>
-<img src="https://via.placeholder.com/150" alt="Credit Risk">
-<p>Business Problem: This project aimed to predict the risk of loan defaults, helping lenders to assess potential risks before approving loans.</p>
-<p>Approach/Methodology:  
-  <ul>
-    <li>Dataset: Home Credit Default Risk Dataset (Kaggle)</li>
-    <li>Techniques: Logistic regression, KNN, and random forest classifiers.</li>
-    <li>Result: Achieved an F1-score of 0.78, identifying significant predictors such as income, loan amount, and credit history.</li>
-  </ul>
-</p>
-<a href="https://github.com/cheryltaf85/Credit-Risk-Modeling">GitHub Repository</a>
+---
 
-<hr>
+## Core Competencies
 
-<h3>3. Fraud Detection in Credit Card Transactions</h3>
-<img src="https://github.com/CherylMachingura/cheryltaf85.github.io/blob/main/Fraud%20Detection%20in%20Credit%20Card%20Transactions.ipynb">
-<p>Business Problem: Fraud detection is a crucial task for preventing financial losses. This project aimed to identify fraudulent transactions in real-time using machine learning.</p>
-<p>Approach/Methodology:  
-  <ul>
-    <li>Dataset: Credit Card Fraud Detection Dataset (Kaggle)</li>
-    <li>Techniques: Isolation Forest, SVM, and Random Forest.</li>
-    <li>Result: Achieved an F1-score of 0.85, with the model identifying 90% of fraudulent transactions.</li>
-  </ul>
-</p>
-<a href="https://github.com/CherylMachingura/cheryltaf85.github.io/blob/main/Fraud%20Detection%20in%20Credit%20Card%20Transactions.ipynb">GitHub Repository</a>
+- **Methodologies**: Agile, Scrum, Data Science, Predictive Analytics, Machine Learning, Statistical Modeling, Time Series Analysis
+- **Languages**: Python (Pandas, NumPy, Scikit-Learn, TensorFlow, Keras), SQL, R (Dplyr, Tidyr, ggplot2)
+- **Tools**: Tableau, Power BI, GitHub, Jira, Flask, PySpark, SQL Server, Azure DevOps, AWS
 
-<hr>
+## Certifications
 
-<h3>4. Food Access Project</h3>
-<img src="https://github.com/CherylMachingura/cheryltaf85.github.io/blob/main/FoodAccessProject.ipynb">
-<p>Business Problem: Understanding food access and availability is critical to addressing food insecurity in various regions. This project focuses on analyzing data about food access across different regions to identify patterns and areas needing improvement.</p>
-<p>Approach/Methodology:  
-  <ul>
-    <li>Dataset: [Insert dataset name or link if available]</li>
-    <li>Techniques: Data exploration, regression analysis, and geographic information system (GIS) analysis.</li>
-    <li>Result: The analysis helped identify key factors contributing to food deserts and geographic areas with limited access to fresh and affordable food.</li>
-  </ul>
-</p>
-<a href="https://github.com/CherylMachingura/cheryltaf85.github.io/blob/main/FoodAccessProject.ipynb">GitHub Repository</a>
+- **Certified Scrum Master** (CSM) - Scrum Alliance
+- **Project Management Professional (PMP)** - PMI
+- **SAFe Release Train Engineer (RTE)** - Scaled Agile
+- **Machine Learning Specialization** - Coursera (deeplearning.ai)
+- **Deep Learning Specialization** - Coursera (deeplearning.ai)
 
-<hr>
+## Micro Projects
+- **[Genetic Algorithm](https://github.com/cheryltaf85/Statistical-Methods/blob/master/genetic-algorithm.ipynb)**: Implemented a genetic algorithm for optimization.
+- **[Bayesian Statistics](https://github.com/cheryltaf85/Statistical-Methods/blob/master/Bayesian%20Statistics.ipynb)**: Explored Bayesian Statistics using real-world data.
 
-<h2>🛠 &nbsp;Tech Stack</h2>
+## Contact
+Feel free to reach out to me if you'd like to collaborate or have any questions.
 
-<p>Languages & Frameworks:</p>
-<img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"> 
-<img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql&logoColor=336791"> 
-<img src="https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3"> 
-<img src="https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00">
+- 📧 **Email**: [cherylmachingura.pm@gmail.com](mailto:cherylmachingura.pm@gmail.com)
+- 💬 **LinkedIn**: [linkedin.com/in/cherylmachingura](https://www.linkedin.com/in/cherylmachingura/)
+- 🔗 **GitHub**: [github.com/cheryltaf85](https://github.com/cheryltaf85)
 
-<p>Tools & Technologies:</p>
-<img src="https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau&logoColor=006F8E"> 
-<img src="https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi"> 
-<img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">
-
-<p>Machine Learning & Data Science Libraries:</p>
-<img src="https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras&logoColor=D00000"> 
-<img src="https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat&logo=scikit-learn">
-
-<hr>
-
-<h2>🤝🏻 &nbsp;Connect with Me</h2>
-
-<p align="center">
-<a href="https://www.cheryltaf85.com"><img src="https://img.shields.io/badge/-cheryltaf85.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white" /></a>
-<a href="https://linkedin.com/in/cherylmachingura/"><img src="https://img.shields.io/badge/-Cheryl%20Machingura-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:cherylmachingura.pm@gmail.com"><img src="https://img.shields.io/badge/-cherylmachingura.pm@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://twitter.com/cheryl_taf"><img src="https://img.shields.io/badge/-@cheryl_taf-1DA1F2?style=flat&logo=Twitter&logoColor=white" alt="Twitter" /></a>
-<a href="https://github.com/cheryltaf85"><img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=GitHub&logoColor=white" alt="GitHub" /></a>
-</p>
-
-<hr>
-
-<p>Credits: <a href="https://github.com/cheryltaf85">Cheryl Machingura</a></p>
 
 
 
