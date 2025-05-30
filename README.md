@@ -26,7 +26,7 @@ Predicting customer churn using survival analysis and machine learning (Random F
 
 ---
 
-### [Food Access Project](https://https://github.com/CherylMachingura/cheryltaf85.github.io/tree/main/projects/food-access)
+### [Food Access Project](https://github.com/CherylMachingura/cheryltaf85.github.io/tree/main/projects/food-access)
 <img src="https://github.com/CherylMachingura/cheryltaf85.github.io/blob/main/projects/food-access/foodaccess.png" width="250" height="150" align="left" />  
 Analyzes regional food access patterns using Python and data visualization to tackle food insecurity.
 
