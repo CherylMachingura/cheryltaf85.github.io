@@ -1,8 +1,6 @@
 
 ---
 
-## 📁 `projects/bayesian-update-wait-times/README.md`
-
 ```markdown
 # 📊 Bayesian Inference: Estimating Wait Time Probability at Coffee Shops
 
