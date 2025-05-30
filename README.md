@@ -79,8 +79,9 @@ Uses Long Short-Term Memory (LSTM) neural networks to forecast Bitcoin prices ba
 
 ## 🔬 Micro Projects
 
-- [Genetic Algorithm](https://github.com/cheryltaf85/Statistical-Methods/blob/master/genetic-algorithm.ipynb)  
-- [Bayesian Statistics](https://github.com/cheryltaf85/Statistical-Methods/blob/master/Bayesian%20Statistics.ipynb)
+- [Genetic Algorithm](https://github.com/CherylMachingura/cheryltaf85.github.io/tree/main/MicroProjects/Genetic%20Algorithm%3A%20Optimal%20Social%20Media%20Posting%20Time)  
+- [Bayesian Statistics](https://github.com/CherylMachingura/cheryltaf85.github.io/tree/main/MicroProjects/Bayesian%20Inference%3A%20Estimating%20Wait%20Time%20Probability%20at%20Coffee%20Shops)
+- [Teen Sentiment Analysis](https://github.com/CherylMachingura/cheryltaf85.github.io/tree/main/MicroProjects/Genetic%20Algorithm%3A%20Optimal%20Social%20Media%20Posting%20Time)
 
 ---
 
