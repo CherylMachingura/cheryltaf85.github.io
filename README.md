@@ -5,7 +5,7 @@ This portfolio is a compilation of my Data Science and Data Analysis projects, p
 
 - **Email**: [cherylmachingura.pm@gmail.com](mailto:cherylmachingura.pm@gmail.com)
 - **LinkedIn**: [linkedin.com/in/cherylmachingura](https://www.linkedin.com/in/cherylmachingura/)
-- **GitHub**: [github.com/cheryltaf85](https://github.com/cheryltaf85)
+- **GitHub**: [github.com/cheryltaf85](https://github.com/CherylMachingura)
 
 ---
 
