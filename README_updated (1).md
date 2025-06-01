@@ -46,7 +46,8 @@ Predicts real estate prices using regression, incorporating features such as loc
 ---
 
 ### [Customer Purchase Intent](https://github.com/CherylMachingura/cheryltaf85.github.io/tree/main/projects/customer-purchase-intent)
-Predicts customer purchase intent based on user behavior data and satisfaction. Useful for marketing optimization.
+<img src="https://tse3.mm.bing.net/th?id=OIP.4TDZsKRahPYn5RFumShiswHaEO&pid=Api" width="250" height="150" align="left" />  
+Predicts customer purchase intent based on user behavior data and satisfaction levels. Techniques include feature engineering, logistic regression, and visualization of purchase likelihood by segment.
 
 ---
 
