@@ -46,7 +46,9 @@ Predicts real estate prices using regression, incorporating features such as loc
 ---
 
 ### [Customer Purchase Intent](https://github.com/CherylMachingura/cheryltaf85.github.io/tree/main/projects/customer-purchase-intent)
-Predicts customer purchase intent based on user behavior data and satisfaction. Useful for marketing optimization.
+<img src="https://tse3.mm.bing.net/th?id=OIP.4TDZsKRahPYn5RFumShiswHaEO&pid=Api" width="250" height="150" align="left" />  
+Predicts customer purchase intent based on user behavior data and satisfaction levels. Techniques include feature engineering, logistic regression, and visualization of purchase likelihood by segment.
+
 
 ---
 
@@ -57,6 +59,11 @@ Predicts delayed deliveries in e-commerce using order-level features and logisti
 
 ### [Bitcoin Price Forecasting using LSTM](https://github.com/CherylMachingura/cheryltaf85.github.io/tree/main/projects/Bitcoin%20Price%20Forecasting%20using%20LSTM)
 Uses Long Short-Term Memory (LSTM) neural networks to forecast Bitcoin prices based on historical time-series data.
+
+---
+### [Graduation Rate Big Data Pipeline](https://github.com/CherylMachingura/cheryltaf85.github.io/tree/main/projects/Graduation%20Rate-Big-Data)
+<img src="https://tse2.mm.bing.net/th/id/OIP.0eWwWRo4XBXefao3wRxcgAHaFU?pid=Api" width="250" height="150" align="left" />  
+Built a big data pipeline to process U.S. graduation rate data using Hadoop HDFS, Hive, Spark, and HBase. Performed transformation, analysis, and visualization using PySpark and Hive queries.
 
 ---
 
