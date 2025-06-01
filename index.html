@@ -1,27 +1,18 @@
-customer purchase intent<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Cheryl Machingura - Data Scientist Portfolio</title>
-
-  <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Lora:wght@400;700&display=swap" rel="stylesheet">
-  
-  <!-- Font Awesome -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
-
   <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
-
     body {
       font-family: 'Lora', serif;
       background-color: #f6f8fb;
       color: #333;
+      margin: 0;
+      padding: 0;
     }
 
     header {
@@ -49,151 +40,74 @@ customer purchase intent<!DOCTYPE html>
       margin-top: 10px;
     }
 
-    nav {
-      position: absolute;
-      top: 20px;
-      left: 50%;
-      transform: translateX(-50%);
-      display: flex;
-      gap: 30px;
-    }
-
-    nav a {
-      color: white;
-      text-decoration: none;
-      font-size: 1.1em;
-      padding: 10px 20px;
-      background-color: rgba(0, 0, 0, 0.5);
-      border-radius: 30px;
-      font-weight: 600;
-      transition: background-color 0.3s;
-    }
-
-    nav a:hover {
-      background-color: rgba(0, 0, 0, 0.7);
-    }
-
     section {
-      margin: 40px 20px;
-      padding: 40px;
-      background-color: #fff;
-      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-      border-radius: 10px;
-    }
-
-    h2 {
-      font-family: 'Poppins', sans-serif;
-      color: #3498db;
+      padding: 40px 20px;
       text-align: center;
-      margin-bottom: 30px;
-      font-size: 2em;
     }
 
-    p {
-      font-size: 1.1em;
-      line-height: 1.6;
+    .project-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 20px;
     }
 
     .project-card {
-      background-color: #f9f9f9;
+      background: white;
+      border-radius: 10px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+      width: 280px;
       padding: 20px;
       text-align: center;
-      border-radius: 12px;
-      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-      margin: 20px auto;
-      width: 280px;
-      transition: transform 0.3s ease, box-shadow 0.3s ease;
-    }
-
-    .project-card:hover {
-      transform: scale(1.05);
-      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
     }
 
     .project-card img {
       width: 100%;
       height: 150px;
       object-fit: cover;
-      border-radius: 12px;
+      border-radius: 8px;
     }
 
     .project-card h3 {
-      font-size: 1.3em;
-      margin: 15px 0;
-      font-weight: 600;
-      color: #2c3e50;
+      margin: 10px 0;
+    }
+
+    .project-card p {
+      font-size: 0.95em;
+      color: #555;
     }
 
     .project-card a {
+      display: inline-block;
+      margin-top: 10px;
       text-decoration: none;
       color: #3498db;
       font-weight: bold;
-      padding: 10px 20px;
-      background-color: rgba(52, 152, 219, 0.2);
-      border-radius: 5px;
-      display: inline-block;
-      margin-top: 10px;
-      transition: background-color 0.3s;
-    }
-
-    .project-card a:hover {
-      background-color: rgba(52, 152, 219, 0.5);
     }
 
     footer {
-      background-color: #3498db;
+      background: #2c3e50;
       color: white;
       text-align: center;
       padding: 20px;
-      font-size: 1.1em;
     }
 
     footer a {
       color: white;
       text-decoration: none;
     }
-
-    @media screen and (max-width: 768px) {
-      header h1 {
-        font-size: 2.5em;
-      }
-
-      header p {
-        font-size: 1.2em;
-      }
-
-      .project-card {
-        width: 90%;
-      }
-    }
   </style>
 </head>
-
 <body>
-  <!-- Hero Section -->
-  <header>
-    <h1>Cheryl Machingura</h1>
-    <p>Data Scientist | Machine Learning Enthusiast | Visualization Specialist</p>
-    <nav>
-      <a href="#about">About</a>
-      <a href="#projects">Portfolio</a>
-      <a href="#contact">Contact</a>
-    </nav>
-  </header>
+<header>
+  <h1>Cheryl Machingura</h1>
+  <p>Data Scientist | Machine Learning Enthusiast | Visualization Specialist</p>
+</header>
 
-  <!-- About Section -->
-  <section id="about">
-    <h2><i class="fas fa-user-circle"></i> About Me</h2>
-    <p>Hello, and welcome to my digital space!</p>
-    <p>I’m <strong>Cheryl Machingura</strong>, a <strong>Principal Program Manager</strong> at <strong>Discover Financial Services</strong>, transitioning into a <strong>data scientist</strong> and <strong>data modeler</strong> role. With an <strong>MBA in Business Analytics</strong> from <strong>Texas Woman's University</strong> and currently completing my <strong>Master's in Data Science</strong> at <strong>Bellevue University</strong>, my passion lies in solving complex business challenges using data.</p>
-    <p>I’ve led initiatives in <strong>Agile transformation</strong>, built <strong>machine learning pipelines</strong>, and participated in hackathons, including fraud detection modeling. I'm passionate about using data to drive meaningful outcomes and supporting inclusion in the data community.</p>
-  </section>
+<section>
+  <h2>Projects</h2>
+  <div class="project-container">
 
-  <!-- Projects Section -->
-  <section id="projects">
-    <h2><i class="fas fa-project-diagram"></i> Portfolio</h2>
-
-    <!-- 7 Project Cards -->
     <div class="project-card">
       <img src="https://github.com/CherylMachingura/cheryltaf85.github.io/blob/main/projects/credit-churn/customerchurn.png" alt="Customer Churn">
       <h3>Customer Churn Prediction</h3>
@@ -223,27 +137,6 @@ customer purchase intent<!DOCTYPE html>
     </div>
 
     <div class="project-card">
-      <img src="https://github.com/cheryltaf85/cheryltaf85.github.io/raw/main/assets/default-project.png" alt="Purchase Intent">
-      <h3>Customer Purchase Intent</h3>
-      <p>Classify customer likelihood to purchase using behavior and survey data.</p>
-      <a href="https://github.com/cheryltaf85/cheryltaf85.github.io/tree/main/projects/customer-purchase-intent">View Project</a>
-    </div>
-
-    <div class="project-card">
-      <img src="https://github.com/cheryltaf85/cheryltaf85.github.io/raw/main/assets/default-project.png" alt="Late Delivery">
-      <h3>E-Commerce Late Delivery Prediction</h3>
-      <p>Predict delays in e-commerce delivery using classification models.</p>
-      <a href="https://github.com/cheryltaf85/cheryltaf85.github.io/tree/main/projects/E-Commerce-Late-Delivery-Prediction">View Project</a>
-    </div>
-
-    <div class="project-card">
-      <img src="https://github.com/cheryltaf85/cheryltaf85.github.io/raw/main/assets/default-project.png" alt="Bitcoin Forecasting">
-      <h3>Bitcoin Price Forecasting (LSTM)</h3>
-      <p>Forecast Bitcoin trends using LSTM neural networks and time-series data.</p>
-      <a href="https://github.com/cheryltaf85/cheryltaf85.github.io/tree/main/projects/Bitcoin%20Price%20Forecasting%20using%20LSTM">View Project</a>
-    </div>
-
-        <div class="project-card">
       <img src="https://tse3.mm.bing.net/th?id=OIP.4TDZsKRahPYn5RFumShiswHaEO&pid=Api" alt="Purchase Intent">
       <h3>Customer Purchase Intent</h3>
       <p>Classify customer likelihood to purchase using behavior and survey data.</p>
@@ -254,29 +147,4 @@ customer purchase intent<!DOCTYPE html>
       <img src="https://tse1.mm.bing.net/th/id/OIP.MCqCUPVUCO1QEVLhRw56HgHaGN?pid=Api" alt="Late Delivery">
       <h3>E-Commerce Late Delivery Prediction</h3>
       <p>Predict delays in e-commerce delivery using classification models.</p>
-      <a href="https://github.com/cheryltaf85/cheryltaf85.github.io/tree/main/projects/E-Commerce-Late-Delivery-Prediction">View Project</a>
-    </div>
-
-    <div class="project-card">
-      <img src="https://tse3.mm.bing.net/th/id/OIP.jJ-hm3P4DVgPM_JwqimwEgHaEO?pid=Api" alt="Bitcoin Forecasting">
-      <h3>Bitcoin Price Forecasting (LSTM)</h3>
-      <p>Forecast Bitcoin trends using LSTM neural networks and time-series data.</p>
-      <a href="https://github.com/cheryltaf85/cheryltaf85.github.io/tree/main/projects/Bitcoin%20Price%20Forecasting%20using%20LSTM">View Project</a>
-    </div>
-
-  </section>
-    
-
-  <!-- Contact Section -->
-  <section id="contact">
-    <h2><i class="fas fa-phone"></i> Contact Me</h2>
-    <p>Interested in collaborating or connecting? Feel free to reach out.</p>
-    <p>📧 Email: <a href="mailto:cherylmachingura.pm@gmail.com">cherylmachingura.pm@gmail.com</a></p>
-  </section>
-
-  <!-- Footer -->
-  <footer>
-    <p>Connect with me on <a href="https://www.linkedin.com/in/cherylmachingura/">LinkedIn</a> or <a href="https://twitter.com/cheryl_taf">Twitter</a></p>
-  </footer>
-</body>
-</html>. 
+      <a href="https://github.com/cheryltaf85/cheryltaf85.github.io/tree/main/projects/E-C
