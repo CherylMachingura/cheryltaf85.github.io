@@ -1,3 +1,4 @@
+
 # Cheryl Machingura - Data Science Portfolio
 
 This portfolio is a compilation of my Data Science and Data Analysis projects, primarily focused on machine learning, data preparation, and predictive analytics. The portfolio includes academic projects, personal learning, and hobby projects that reflect my journey toward becoming a data scientist.
@@ -45,16 +46,19 @@ Predicts real estate prices using regression, incorporating features such as loc
 ---
 
 ### [Customer Purchase Intent](https://github.com/CherylMachingura/cheryltaf85.github.io/tree/main/projects/customer-purchase-intent)
-Predicts customer purchase intent based on user behavior data and satisfaction. Useful for marketing optimization.
+<img src="https://tse3.mm.bing.net/th?id=OIP.4TDZsKRahPYn5RFumShiswHaEO&pid=Api" width="250" height="150" align="left" />  
+Predicts customer purchase intent based on user behavior data and satisfaction levels. Techniques include feature engineering, logistic regression, and visualization of purchase likelihood by segment.
 
 ---
 
 ### [E-Commerce Late Delivery Prediction](https://github.com/CherylMachingura/cheryltaf85.github.io/tree/main/projects/E-Commerce-Late-Delivery-Prediction)
+<img src="https://tse1.mm.bing.net/th/id/OIP.MCqCUPVUCO1QEVLhRw56HgHaGN?pid=Api" width="250" height="150" align="left" />  
 Predicts delayed deliveries in e-commerce using order-level features and logistic regression models.
 
 ---
 
 ### [Bitcoin Price Forecasting using LSTM](https://github.com/CherylMachingura/cheryltaf85.github.io/tree/main/projects/Bitcoin%20Price%20Forecasting%20using%20LSTM)
+<img src="https://tse3.mm.bing.net/th/id/OIP.jJ-hm3P4DVgPM_JwqimwEgHaEO?pid=Api" width="250" height="150" align="left" />  
 Uses Long Short-Term Memory (LSTM) neural networks to forecast Bitcoin prices based on historical time-series data.
 
 ---
@@ -79,9 +83,21 @@ Uses Long Short-Term Memory (LSTM) neural networks to forecast Bitcoin prices ba
 
 ## 🔬 Micro Projects
 
-- [Genetic Algorithm](https://github.com/CherylMachingura/cheryltaf85.github.io/tree/main/MicroProjects/Genetic%20Algorithm%3A%20Optimal%20Social%20Media%20Posting%20Time)  
-- [Bayesian Statistics](https://github.com/CherylMachingura/cheryltaf85.github.io/tree/main/MicroProjects/Bayesian%20Inference%3A%20Estimating%20Wait%20Time%20Probability%20at%20Coffee%20Shops)
-- [Teen Sentiment Analysis](https://github.com/CherylMachingura/cheryltaf85.github.io/tree/main/MicroProjects/Genetic%20Algorithm%3A%20Optimal%20Social%20Media%20Posting%20Time)
+### [Genetic Algorithm: Optimal Social Media Posting Time](https://github.com/CherylMachingura/cheryltaf85.github.io/tree/main/MicroProjects/Genetic%20Algorithm%3A%20Optimal%20Social%20Media%20Posting%20Time)
+<img src="https://tse1.mm.bing.net/th/id/OIP.RdkPZOxQ9Cj-2YODCk3CjQHaHa?pid=Api" width="250" height="150" align="left" />  
+Used a genetic algorithm to identify the best time slots to post on social media for maximum engagement. Includes crossover and mutation logic to simulate evolution in scheduling.
+
+---
+
+### [Bayesian Inference: Estimating Wait Time at Coffee Shops](https://github.com/CherylMachingura/cheryltaf85.github.io/tree/main/MicroProjects/Bayesian%20Inference%3A%20Estimating%20Wait%20Time%20Probability%20at%20Coffee%20Shops)
+<img src="https://tse2.mm.bing.net/th?id=OIP.nB9vRzL50YCW5ZNQyXLFOwHaFW&pid=Api" width="250" height="150" align="left" />  
+Uses Bayesian statistics to estimate customer wait times in coffee shops, visualizing posterior distributions and updating beliefs based on new data.
+
+---
+
+### [Gen Z Social Media Sentiment Analysis](https://github.com/CherylMachingura/cheryltaf85.github.io/tree/main/MicroProjects/GenZ%20Social%20Media%20Sentiment%20Analysis)
+<img src="https://tse1.mm.bing.net/th/id/OIP.TkaLQ_KnH1BOC6nzj38I8QHaGU?pid=Api" width="250" height="150" align="left" />  
+Performed NLP and sentiment analysis on Gen Z social media posts using VADER and WordClouds. Extracted trending terms and emotional tone.
 
 ---
 
