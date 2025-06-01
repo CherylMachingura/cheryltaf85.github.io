@@ -51,11 +51,13 @@ Predicts customer purchase intent based on user behavior data and satisfaction. 
 ---
 
 ### [E-Commerce Late Delivery Prediction](https://github.com/CherylMachingura/cheryltaf85.github.io/tree/main/projects/E-Commerce-Late-Delivery-Prediction)
+<img src="https://tse1.mm.bing.net/th/id/OIP.MCqCUPVUCO1QEVLhRw56HgHaGN?pid=Api" width="250" height="150" align="left" />  
 Predicts delayed deliveries in e-commerce using order-level features and logistic regression models.
 
 ---
 
 ### [Bitcoin Price Forecasting using LSTM](https://github.com/CherylMachingura/cheryltaf85.github.io/tree/main/projects/Bitcoin%20Price%20Forecasting%20using%20LSTM)
+<img src="https://tse3.mm.bing.net/th/id/OIP.jJ-hm3P4DVgPM_JwqimwEgHaEO?pid=Api" width="250" height="150" align="left" />  
 Uses Long Short-Term Memory (LSTM) neural networks to forecast Bitcoin prices based on historical time-series data.
 
 ---
@@ -103,15 +105,3 @@ Performed NLP and sentiment analysis on Gen Z social media posts using VADER and
 - 📧 **Email**: [cherylmachingura.pm@gmail.com](mailto:cherylmachingura.pm@gmail.com)  
 - 💬 **LinkedIn**: [linkedin.com/in/cherylmachingura](https://www.linkedin.com/in/cherylmachingura/)  
 - 🔗 **GitHub**: [github.com/cheryltaf85](https://github.com/cheryltaf85)
-
-
-
-### [E-Commerce Late Delivery Prediction](https://github.com/CherylMachingura/cheryltaf85.github.io/tree/main/projects/E-Commerce-Late-Delivery-Prediction)
-<img src="https://tse1.mm.bing.net/th/id/OIP.MCqCUPVUCO1QEVLhRw56HgHaGN?pid=Api" width="250" height="150" align="left" />  
-Predicts delayed deliveries in e-commerce using order-level features and logistic regression models.
-
----
-
-### [Bitcoin Price Forecasting using LSTM](https://github.com/CherylMachingura/cheryltaf85.github.io/tree/main/projects/Bitcoin%20Price%20Forecasting%20using%20LSTM)
-<img src="https://tse3.mm.bing.net/th/id/OIP.jJ-hm3P4DVgPM_JwqimwEgHaEO?pid=Api" width="250" height="150" align="left" />  
-Uses Long Short-Term Memory (LSTM) neural networks to forecast Bitcoin prices based on historical time-series data.
