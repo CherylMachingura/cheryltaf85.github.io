@@ -49,6 +49,14 @@ To identify trends in teen emotional expression online by:
 
 ## 🚀 How to Run
 
-1. Install dependencies:  
-```bash
-pip install textblob wordcloud seaborn matplotlib
+1. Install dependencies:
+
+    ```bash
+    pip install textblob wordcloud seaborn matplotlib
+    ```
+
+2. Run the notebook:
+
+    ```bash
+    jupyter notebook teen_social_media_sentiment_final.ipynb
+    ```
